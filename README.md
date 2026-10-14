@@ -36,6 +36,8 @@ education: B.E. Computer Science and Design
 role:
   - Game Developer
   - Data Analyst
+  - UI/UX Enthusiast
+  
 
 focus:
   - Data Analytics
